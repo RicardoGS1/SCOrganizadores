@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "606178115648",
+    "firebase_url": "https://tienda-de-muebles-plasticos-default-rtdb.firebaseio.com",
+    "project_id": "tienda-de-muebles-plasticos",
+    "storage_bucket": "tienda-de-muebles-plasticos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606178115648:android:beb41e29f2c59730a51fa5",
+        "android_client_info": {
+          "package_name": "com.virtualworld.scorganizadores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsegJp9c0zz_IMe2M-6JgGm0gjvqa1Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606178115648:android:5e25adc3b464ca71a51fa5",
+        "android_client_info": {
+          "package_name": "com.virtualworld.tienda_muebles_plastico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsegJp9c0zz_IMe2M-6JgGm0gjvqa1Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
